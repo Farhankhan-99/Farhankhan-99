@@ -5,9 +5,10 @@
 I focus on data analysis, business intelligence, and building end-to-end solutions that support data-driven decision-making. 
 My work involves using Python, SQL, Excel, and Power BI to clean, analyze, and visualize data in a way that reveals clear patterns and meaningful insights 📊.
 
-I am actively developing a strong project portfolio that reflects real analytical workflows—data preparation, exploratory analysis, feature understanding, and dashboard reporting 🔍. My goal is to grow into a data analyst role where I can contribute to solving business problems through structured analysis and actionable insights 💡.
+I am actively developing a strong project portfolio that reflects real analytical workflows—data preparation, exploratory analysis, feature understanding, and dashboard reporting 🔍.
+My goal is to grow into a data analyst role where I can contribute to solving business problems through structured analysis and actionable insights 💡.
 
-I am open to internships, project collaborations, and opportunities where I can apply analytical thinking to real-world challenges 🛠️.
+I am open to internships, project collaborations, and opportunities where I can apply analytical thinking to real-world challenges.
 
 ---
 
