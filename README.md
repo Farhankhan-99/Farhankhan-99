@@ -13,7 +13,7 @@ I am currently seeking internships and entry-level opportunities where I can con
 
 **Programming Languages** : Python, SQL (MySQL, PostgreSQL)  
 **Python Libraries** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-**Machine Learning** : Regression, Classification, Model Evaluation, Feature Engineering.  
+**Machine Learning** : Feature Engineering, Regression, Classification, Model Evaluation.  
 **Business Intelligence** : Power BI (DAX, Power Query), Excel (Pivot Tables, VLOOKUP, Advanced Formulas)  
 **Data Analytics** : Data Cleaning & Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis, ETL Processes, Dashboard Development  
 **Tools** : Git, GitHub, Jupyter Notebook, VS Code  
