@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhankhan999/)
 
-I work in data analysis and business intelligence, with hands-on experience in applying machine learning to support data-driven decision-making. I use Python, SQL, Excel, and Power BI to clean, analyze, visualize, and model data to generate actionable insights and predictive outcomes.
+I am a data enthusiast focused on data analysis and business intelligence, with working knowledge of machine learning to support data-driven decision-making.
 
-I build end-to-end projects covering data preparation, exploratory analysis, feature engineering, model development, evaluation, and dashboard reporting.
+I develop end-to-end projects that involve data cleaning, exploratory analysis, feature engineering, model development, evaluation, and dashboard reporting to translate data into actionable insights.
 
-I am seeking internships and entry-level opportunities where I can apply data analysis and machine learning to solve real business problems.
+I am currently seeking internships and entry-level opportunities where I can contribute to solving real business problems through structured analysis and data-driven thinking.
 
 ---
 ## 🛠️ Skills
